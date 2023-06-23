@@ -1,0 +1,52 @@
+.navbar-{
+  font-size: 4vh;
+  }
+  .navbar{
+  background-color:rgb(238, 161, 16);
+  }
+  
+  .dashboard{
+  
+  height: 10vh;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  }
+  .dashboard h6{
+  color: gray;
+  padding: 0vh 10vh;
+  }
+  .dashboard h3{
+  color: black;
+  font-weight: bold;
+  
+  padding: 0vh 10vh;
+  
+  }
+  h1{
+  font-size: 3vh;
+  font-weight: bolder;
+  color: black;
+  margin: 3vh 10vh;
+  }
+  .card{
+  margin: 0vh 10vh;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  }
+  .card h5{
+  font-size: 5vh;
+  font-weight: bolder;
+  color: black;
+  }
+  
+  footer{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  }
+  footer ul{
+  height: 6vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  footer ul li {
+  list-style: none;
+  padding: 4vh;
+  }
